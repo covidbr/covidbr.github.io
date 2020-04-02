@@ -1,4 +1,3 @@
-# Test
 
 ## Welcome to GitHub Pages
 
