@@ -47,7 +47,7 @@ Na figura abaixo, mostramos um resultado típico que conseguimos extrair com nos
 
 ### Coleta de casos por municípios
 
-Estamos também monitorando os dados oficiais das secretarias estaduais com os registros de casos positivos da COVID-19 nos municípios brasileiros que servem como base para as condições inciais do modelo em estudo. Esse trabalho é feito sistematicamente pelo doutorando Wesley Cota, com ajuda de voluntários, e está disponível no endereço https://labs.wesleycota.com/sarscov2/br/.
+Estamos também monitorando os dados oficiais das secretarias estaduais com os registros de casos positivos da COVID-19 nos municípios brasileiros que servem como base para as condições inciais do modelo em estudo. Esse trabalho é feito sistematicamente pelo doutorando Wesley Cota, com ajuda de voluntários, e está disponível no endereço <https://labs.wesleycota.com/sarscov2/br/>.
 
 ### O modelo
 
@@ -76,32 +76,30 @@ Nesta seção mostraremos resultados preliminares dos nossos estudos (em breve).
 
 ## Referências
 
-[^KraemerSci]: Kraemer, et al. (2020). *The effect of human mobility and control measures on the COVID-19 epidemic in China*. Science, eabb4218.  https://doi.org/10.1126/science.abb4218 
+[^KraemerSci]: Kraemer, et al. (2020). *The effect of human mobility and control measures on the COVID-19 epidemic in China*. Science, eabb4218.  <https://doi.org/10.1126/science.abb4218>
 
-[^Arenas2020]: Arenas, A., Cota, W., Gomez-Gardenes, J., Gómez, S., Granell, C., Matamalas, J. T., … Steinegger, B. (2020). *A mathematical model for the spatiotemporal epidemic spreading of COVID1*9. MedRxiv, 2020.03.21.20040022. https://doi.org/10.1101/2020.03.21.20040022
+[^Arenas2020]: Arenas, A., Cota, W., Gomez-Gardenes, J., Gómez, S., Granell, C., Matamalas, J. T., … Steinegger, B. (2020). *A mathematical model for the spatiotemporal epidemic spreading of COVID1*9. MedRxiv, 2020.03.21.20040022. <https://doi.org/10.1101/2020.03.21.20040022>
 
-[^Lourenco2020]: Lourenco, J., et al (2020). *Fundamental principles of epidemic spread highlight the immediate need for large-scale serological surveys to assess the stage of the SARS-CoV-2 epidemic*. MedRxiv, 2020.03.24.20042291. https://doi.org/10.1101/2020.03.24.20042291
+[^Lourenco2020]: Lourenco, J., et al (2020). *Fundamental principles of epidemic spread highlight the immediate need for large-scale serological surveys to assess the stage of the SARS-CoV-2 epidemic*. MedRxiv, 2020.03.24.20042291. <https://doi.org/10.1101/2020.03.24.20042291>
 
-[^Zhang]: Zhang, J., et al. (2020). *Age profile of susceptibility, mixing, and social distancing shape the dynamics of the novel coronavirus disease 2019 outbreak in China*. MedRxiv, 2020.03.19.20039107. https://doi.org/10.1101/2020.03.19.20039107
+[^Zhang]: Zhang, J., et al. (2020). *Age profile of susceptibility, mixing, and social distancing shape the dynamics of the novel coronavirus disease 2019 outbreak in China*. MedRxiv, 2020.03.19.20039107. <https://doi.org/10.1101/2020.03.19.20039107>
 
-[^Pullano]: Pullano, G., Pinotti, F., Valdano, E., Boëlle, P.-Y., Poletto, C., & Colizza, V. (2020). Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020. Eurosurveillance, 25(4). https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000057
+[^Pullano]: Pullano, G., Pinotti, F., Valdano, E., Boëlle, P.-Y., Poletto, C., & Colizza, V. (2020). Novel coronavirus (2019-nCoV) early-stage importation risk to Europe, January 2020. Eurosurveillance, 25(4). <https://doi.org/10.2807/1560-7917.ES.2020.25.4.2000057>
 
-[^mobslab]: Laboratory of biological + sócio-thecno systems,  https://www.mobs-lab.org/alessandro-vespignani.html
+[^mobslab]: Laboratory of biological + sócio-thecno systems,  <https://www.mobs-lab.org/alessandro-vespignani.html>
 
-[^Barratbook]: Barrat, A., Barthelemy, M., & Vespignani, A. (2008).  *Dynamical Processes on Complex Networks *(1st ed.). Cambridge: Cambridge University Press. https://doi.org/10.1017/CBO9780511791383
+[^Barratbook]: Barrat, A., Barthelemy, M., & Vespignani, A. (2008).  *Dynamical Processes on Complex Networks *(1st ed.). Cambridge: Cambridge University Press. <https://doi.org/10.1017/CBO9780511791383>
 
-[^GardenesNatPhy]: Gómez-Gardeñes, J., Soriano-Paños, D., & Arenas, A. (2018). *Critical regimes driven by recurrent mobility patterns of reaction–diffusion processes in networks*. Nature Physics, 14(4), 391–395. https://doi.org/10.1038/s41567-017-0022-7
+[^GardenesNatPhy]: Gómez-Gardeñes, J., Soriano-Paños, D., & Arenas, A. (2018). *Critical regimes driven by recurrent mobility patterns of reaction–diffusion processes in networks*. Nature Physics, 14(4), 391–395. <https://doi.org/10.1038/s41567-017-0022-7>
 
-[^ColizzaRD]: Colizza, V., Pastor-Satorras, R., & Vespignani, A. (2007). *Reaction–diffusion processes and metapopulation models in heterogeneous networks.* Nature Physics, 3(4), 276–282. https://doi.org/10.1038/nphys560
+[^ColizzaRD]: Colizza, V., Pastor-Satorras, R., & Vespignani, A. (2007). *Reaction–diffusion processes and metapopulation models in heterogeneous networks.* Nature Physics, 3(4), 276–282. <https://doi.org/10.1038/nphys560>
 
-[^Balcan]: Balcan, D., & Vespignani, A. (2011). *Phase transitions in contagion processes mediated by recurrent mobility patterns*. Nature Physics, 7(7), 581–586. https://doi.org/10.1038/nphys1944
+[^Balcan]: Balcan, D., & Vespignani, A. (2011). *Phase transitions in contagion processes mediated by recurrent mobility patterns*. Nature Physics, 7(7), 581–586. <https://doi.org/10.1038/nphys1944>
 
-[^covidES]: *Map of propagation risk of COVID-19 by local contact in Spain*. https://covid-19-risk.github.io/map/spain/en/
+[^covidES]: *Map of propagation risk of COVID-19 by local contact in Spain*. <https://covid-19-risk.github.io/map/spain/en/>
 
-[^IBGE]: Censo demográfico 2010: resultados gerais da amostra (2012). https://biblioteca.ibge.gov.br/
+[^IBGE]: Censo demográfico 2010: resultados gerais da amostra (2012). <https://biblioteca.ibge.gov.br/>
 
-[^ANAC]: Dados estatísticos da angência nacional de aviação civil (2019). https://www.anac.gov.br/assuntos/dados-e-estatisticas/dados-estatisticos/dados-estatisticos
+[^ANAC]: Dados estatísticos da angência nacional de aviação civil (2019). <https://www.anac.gov.br/assuntos/dados-e-estatisticas/dados-estatisticos/dados-estatisticos>
 
-[^Li]: Li, R., Pei, S., Chen, B., Song, Y., Zhang, T., Yang, W., & Shaman, J. (2020). *Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)*. Science, eabb3221. https://doi.org/10.1126/science.abb3221
-
-
+[^Li]: Li, R., Pei, S., Chen, B., Song, Y., Zhang, T., Yang, W., & Shaman, J. (2020). *Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)*. Science, eabb3221. <https://doi.org/10.1126/science.abb3221>
