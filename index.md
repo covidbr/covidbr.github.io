@@ -60,8 +60,8 @@ Dentro de cada fragmento vamos considerar modelos compartimentais tradicionais d
 - **Suscetível (S)** que representa uma pessoa que não foi  exposta ao vírus
 - **Exposto (E)** sendo aquela pessoa que carrega o vírus mas não manisfesta sintomas nem transmite a doença
 - **Assintomático (A)** que é o indivíduo que não manisfesta sintomas claros mas que pode infectar outras pessoas
-- **Infeccioso (I)** que manifesta os sintomas e também pode infectar outras pessas
-- **Recuperado (R)** que está imune ao vírus e não transmite 
+- **Infeccioso (I)** que manifesta os sintomas e também pode infectar outras pessoas
+- **Recuperado (R)** que está imune ao vírus e não transmite
 
 A existência do estado assintomático é considerado pela comunidade científica o grande diferencial e aspecto chave da pandemia de COVID-19[^Li], pois esses indivíduos se movem e interagem sem nenhum controle pois não têm ciência de seu estado infeccioso.
 
