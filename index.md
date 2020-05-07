@@ -57,9 +57,12 @@ Um dos desafios agora é obter dados de mobilidade que representem fielmente a r
 
 O primeiro resultado do nosso grupo já está disponível na página ["Modelagem do avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/pub/1).
 
-<img src="https://covidbr.github.io/figs/pub1/metapop.png" alt="Representação esquemática de uma estrutura de metapopulação" width="30%" />
+<div style="text-align: center">
+
+<img src="https://covidbr.github.io/figs/pub1/metapop.png" alt="Representação esquemática de uma estrutura de metapopulação" width="40%" />
 
 <img src="https://covidbr.github.io/figs/pub1/seaucr.png" alt="Representação das taxas de transição no nosso modelo." width="40%" />
+
 
 <br />
 
@@ -67,6 +70,7 @@ O primeiro resultado do nosso grupo já está disponível na página ["Modelagem
 <iframe width="32%" src="https://www.youtube.com/embed/eITjgn2_H1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="32%" src="https://www.youtube.com/embed/xgBwYBsesto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+</div>
 
 ## Coleta de casos por municípios
 
