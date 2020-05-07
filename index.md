@@ -19,9 +19,28 @@ description: Predição, estratégias de mitigação, supressão e distribuiçã
 - [Guilherme H. S. Costa](mailto:guilherme.h.costa@ufv.br ) - guilherme.h.costa@ufv.br
 
 
-## Trabalho mais recente:
+## Trabalhos recentes:
 
-- [Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1) (*Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil*) <https://covidbr.github.io/pub/1>
+### Modelagem do avanço da COVID-19 no interior do Brasil
+
+[Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1) (*Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil*) <https://covidbr.github.io/pub/1>
+
+O primeiro resultado do nosso grupo já está disponível na página ["Modelagem do avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/pub/1).
+
+<div style="text-align: center">
+
+<img src="https://covidbr.github.io/figs/pub1/metapop.png" alt="Representação esquemática de uma estrutura de metapopulação" width="40%" />
+
+<img src="https://covidbr.github.io/figs/pub1/seaucr.png" alt="Representação das taxas de transição no nosso modelo." width="40%" />
+
+
+<br />
+
+<iframe width="32%" src="https://www.youtube.com/embed/pIYLsXWcrMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="32%" src="https://www.youtube.com/embed/eITjgn2_H1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="32%" src="https://www.youtube.com/embed/xgBwYBsesto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 ## Motivação
 
@@ -50,27 +69,6 @@ A nossa equipe possui grande experiência na área de modelagem de epidemias em 
 A [versão brasileira do modelo foi implementada]((https://covidbr.github.io/pub/1)) e já conseguimos fazer predições a epidemia da COVID-19 se disseminando pelas cidades do Brasil. Situações de mitigação ou supressão já podem ser simuladas no modelo.
 
 Um dos desafios agora é obter dados de mobilidade que representem fielmente a realidade Brasileira atual. No momento temos disponíveis duas bases de dados: A de mobilidade pendular do censo do IBGE de 2010[^IBGE] e o fluxo aéreo de 2014[^ANAC]. Para aumentar a precisão da nossa modelagem precisaríamos obter dados mais atuais e precisos sobre mobilidade. Isso poderia, por exemplo, ser feito via dados georreferenciados de telefonia móvel.
-
-
-## Modelagem do avanço da COVID-19 no interior do Brasil
-
-
-O primeiro resultado do nosso grupo já está disponível na página ["Modelagem do avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/pub/1).
-
-<div style="text-align: center">
-
-<img src="https://covidbr.github.io/figs/pub1/metapop.png" alt="Representação esquemática de uma estrutura de metapopulação" width="40%" />
-
-<img src="https://covidbr.github.io/figs/pub1/seaucr.png" alt="Representação das taxas de transição no nosso modelo." width="40%" />
-
-
-<br />
-
-<iframe width="32%" src="https://www.youtube.com/embed/pIYLsXWcrMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="32%" src="https://www.youtube.com/embed/eITjgn2_H1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="32%" src="https://www.youtube.com/embed/xgBwYBsesto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
 
 ## Coleta de casos por municípios
 
