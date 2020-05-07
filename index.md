@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Modelagem matemática da disseminação geográfica da COVID-19
 description: Predição, estratégias de mitigação, supressão e distribuição de recursos
 ---
