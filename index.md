@@ -8,7 +8,7 @@ description: Predição, estratégias de mitigação, supressão e distribuiçã
 
 **Predição, estratégias de mitigação, supressão e distribuição de recursos**
 
-- **Equipe:** [Silvio C. Ferreira](https://sites.google.com/site/silvioferreirajr/home) (coordenador), [Wesley Cota](https://wesleycota.com/), [Guilherme H. S. Costa](https://sites.google.com/view/guilherme-costa/home)
+- **Equipe:** [Silvio C. Ferreira](https://sites.google.com/site/silvioferreirajr/home) (coordenador), [Wesley Cota](https://wesleycota.com/), [Guilherme S. Costa](https://sites.google.com/view/guilherme-costa/home)
 - [Departamento de Física](https://www.dpf.ufv.br)
 - [Universidade Federal de Viçosa (UFV)](https://www.ufv.br)
 
@@ -16,7 +16,7 @@ description: Predição, estratégias de mitigação, supressão e distribuiçã
 
 - [Silvio C. Ferreira](mailto:silviojr@ufv.br) - silviojr@ufv.br 
 - [Wesley Cota](mailto:wesley.cota@ufv.br) - wesley.cota@ufv.br
-- [Guilherme H. S. Costa](mailto:guilherme.h.costa@ufv.br ) - guilherme.h.costa@ufv.br
+- [Guilherme S. Costa](mailto:guilherme.h.costa@ufv.br ) - guilherme.h.costa@ufv.br
 
 
 ## Trabalhos recentes:
