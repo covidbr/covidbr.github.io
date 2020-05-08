@@ -48,13 +48,6 @@ Como toda epidemia emergente, a COVID-19 apresenta grandes desafios em todas as 
 
 Neste cenário a modelagem matemática, computacional e estatística torna-se uma aliada poderosa para a construção de políticas de supressão ou mitigação da epidemia e não tem sido diferente para a COVID-19[^KraemerSci]<sup>,</sup>[^Arenas2020]<sup>,</sup>[^Lourenco2020]<sup>,</sup>[^Zhang]<sup>,</sup>[^Pullano]. Muitos países desenvolvidos como os EUA tratam a previsão de epidemias como uma questão de segurança nacional com centros avançados de modelagem e monitoramento de epidemias[^mobslab]. A abordagem tradicional que vem sendo usada por alguns grupos no Brasil adotam modelos compartimentais em que os indivíduos são agrupados de acordo com o estado epidemiológico, como suscetível, infeccioso, exposto e recuperado[^Barratbook]. Um grande limitante dessa abordagem é que ela assume populações completamente misturadas que, numa escala de país continental como o Brasil, é demasiadamente simplificadora.
 
-
-## Proposta
-
-A nossa proposta é utilizar modelos de metapopulações em que os indivíduos são agrupados em subpopulações (*patches*) delimitadas por regiões geográficas, dentro das quais os contágios ocorrem mas também existe o fluxo entre residentes de diferentes regiões[^GardenesNatPhy]<sup>,</sup>[^ColizzaRD]. Nesta primeira etapa, estamos focando nossos estudos em mobilidade recorrente na qual os indivíduos retornam às suas regiões de residência após visitar outras[^Balcan]. Isso ocorre, por exemplo, com a mobilidade pendular, em que pessoas de uma cidade estudam ou trabalham em outra. Também podemos incluir o fluxo por vias aéreas ou terrestres. As interações epidêmicas (contágio, cura, óbito,  etc.) são feitas dentro de cada subpopulação usando modelos compartimentais estocásticos. A inspiração para o nosso trabalho é o modelo proposto muito recentemente para o estudo da disseminação da COVID-19 na Espanha[^Arenas2020]. A versão estocástica desse modelo permite calcular margens de confiança para as simulações.
-
-A nossa meta é nuclear um sistema de previsão e monitoramento para a COVID-19 para auxiliar as políticas públicas para o combate à sua disseminação, minimizando impactos econômicos e sociais sem comprometer a segurança sanitária da população, em particular a da porção mais vulnerável. É certo que o relaxamento das restrições adotadas atualmente para a contenção da epidemia vão gerar novas ondas de infecção. Estimamos que essa iniciativa de monitoramento e previsão será necessária por pelo menos dois anos. Além disso, o acompanhamento de outras epidemias poderá ser feito usando o mesmo ferramental desenvolvido aqui.
-
 ## Diferencial do nosso projeto
 
 ### Proposta
