@@ -25,7 +25,7 @@ description: Predição, estratégias de mitigação, supressão e distribuiçã
 
 [Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1) (*Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil*) <https://covidbr.github.io/pub/1>
 
-O primeiro resultado do nosso grupo já está disponível na página ["Modelagem do avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/pub/1).
+O primeiro resultado do nosso grupo já está disponível na página ["Modelagem do avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/pub/1). Análises extras estão disponíveis na página ["Análises sobre o avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/extra/1).
 
 <div style="text-align: center">
 
