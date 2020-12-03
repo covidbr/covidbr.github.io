@@ -23,9 +23,11 @@ description: Predição, estratégias de mitigação, supressão e distribuiçã
 
 ### Modelagem do avanço da COVID-19 no interior do Brasil
 
-[Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1) (*Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil*) <https://covidbr.github.io/pub/1>
+[Modelagem do avanço da COVID-19 no interior do Brasil](https://covidbr.github.io/pub/1) (*Metapopulation modeling of COVID-19 advancing into the countryside: an analysis of mitigation strategies for Brazil*) <https://covidbr.github.io/pub/1>. 
 
-O primeiro resultado do nosso grupo já está disponível na página ["Modelagem do avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/pub/1). Análises extras estão disponíveis na página ["Análises sobre o avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/extra/1).
+O nosso trabalho *Outbreak diversity in epidemic waves propagating through distinct geographical scales* foi publicado na [Physical Review Research **2**(4) 043306 (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043306).
+
+O primeiro resultado do nosso grupo já está disponível na página ["Modelagem do avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/pub/1). Análises extras estão disponíveis na página ["Análises sobre o avanço da COVID-19 no interior do Brasil"](https://covidbr.github.io/extra/1). 
 
 <div style="text-align: center">
 
