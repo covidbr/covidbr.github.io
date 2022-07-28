@@ -15,7 +15,7 @@ description: Predição, estratégias de mitigação, supressão e distribuiçã
 ### Contato
 
 - [Silvio C. Ferreira](mailto:silviojr@ufv.br) - silviojr@ufv.br 
-- [Wesley Cota](mailto:wesley.cota@ufv.br) - wesley.cota@ufv.br
+- [Wesley Cota](mailto:wesley@wcota.me) - wesley@wcota.me
 - [Guilherme S. Costa](mailto:guilherme.h.costa@ufv.br ) - guilherme.h.costa@ufv.br
 
 
